@@ -45,6 +45,7 @@ Project structure preference:
 - /packages/shared
 - /infra
 - /scripts
+- /skills
 - /docs
 - /tests/unit
 - /tests/integration
